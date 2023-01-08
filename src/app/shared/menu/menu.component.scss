@@ -1,0 +1,11 @@
+nav {
+    position    : fixed;
+    box-shadow  : 0 0 20px rgba(0, 0, 0, 0.09);
+    top: 2rem;
+    left: 2rem;
+    z-index     : 5;
+    overflow: hidden;
+}
+li {
+    cursor: pointer;
+}

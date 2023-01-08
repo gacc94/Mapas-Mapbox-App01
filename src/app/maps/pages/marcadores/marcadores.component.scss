@@ -1,0 +1,25 @@
+.mapa-container {
+    height: 100vh;
+    width: 100%;
+}
+
+.row {
+    background-color: #fff;
+    position: fixed;
+    border-radius: .5rem;
+    bottom: 2.5rem;
+    left: 2.5rem;
+    padding: .8rem;
+    width: 28rem;
+    z-index: 6;
+}
+
+.list-group {
+    position: fixed;
+    top: 2rem;
+    right: 2rem;
+    z-index: 5;
+}
+li {
+    cursor: pointer;
+}
